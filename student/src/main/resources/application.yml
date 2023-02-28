@@ -1,0 +1,8 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /student
+
+spring:
+  profiles:
+    active: dev
